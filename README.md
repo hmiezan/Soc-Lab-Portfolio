@@ -26,7 +26,7 @@ Initial Access 🚨
 SOC-01 Password Spray
 Investigation of password spraying activity resulting in successful authentication.
 
-##### View Investigation🔗
+##### <a href="https://github.com/hmiezan/SOC-1-Windows-Password-Spray-Investigation">View Investigation🔗</a>
 --
 --
 Discovery 🕵️
