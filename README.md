@@ -20,27 +20,10 @@ The goal of this portfolio is to demonstrate detection, investigation, incident 
 - MITRE ATT&CK
 
 ### Attack Lifecycle
-Initial Access
-    ↓
-SOC-01 Password Spray
-    ↓
-SOC-02 SMB Discovery
-    ↓
-SOC-03 PowerShell Recon
-    ↓
-SOC-04 Credential Access
-    ↓
-SOC-05 Lateral Movement
-    ↓
-SOC-06 Privilege Escalation
-    ↓
-SOC-07 Data Exfiltration
-    ↓
-SOC-08 Ransomware
-    ↓
-SOC-09 Threat Hunting
-    ↓
-SOC-10 Full Incident Response
+<img width="242" height="327" alt="image" src="https://github.com/user-attachments/assets/108a1a0d-ccd6-486e-be3a-a64a6cd1eab9" />
+
+
+
 Investigations
 Initial Access
 SOC-01 Password Spray
