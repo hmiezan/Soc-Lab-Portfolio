@@ -34,14 +34,14 @@ Discovery 🕵️
 SOC-02 SMB Discovery
 Investigation of SMB share access following successful authentication.
 
-##### View Investigation🔗
+##### <a href="https://github.com/hmiezan/SOC-2-Investigation-SMB-Discovery">View Investigation🔗</a>
 --
 --
 
 SOC-03 PowerShell Recon
 Investigation of PowerShell-based host discovery activity.
 
-##### View Investigation🔗
+##### <a href="https://github.com/hmiezan/SOC-03-PowerShell-Discovery">View Investigation🔗</a>
 --
 --
 
