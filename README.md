@@ -28,7 +28,7 @@ Investigation of password spraying activity resulting in successful authenticati
 
 ##### <a href="https://github.com/hmiezan/SOC-1-Windows-Password-Spray-Investigation">View Investigation🔗</a>
 --
---
+
 Discovery 🕵️
 
 SOC-02 SMB Discovery
@@ -36,13 +36,11 @@ Investigation of SMB share access following successful authentication.
 
 ##### <a href="https://github.com/hmiezan/SOC-2-Investigation-SMB-Discovery">View Investigation🔗</a>
 --
---
 
 SOC-03 PowerShell Recon
 Investigation of PowerShell-based host discovery activity.
 
 ##### <a href="https://github.com/hmiezan/SOC-03-PowerShell-Discovery">View Investigation🔗</a>
---
 --
 
 Credential Access 🔑
@@ -52,7 +50,6 @@ Credential theft investigation.
 
 ##### Coming Soon🔗
 --
---
 
 Lateral Movement ↔️
 
@@ -60,7 +57,6 @@ SOC-05 Lateral Movement
 Remote access and movement investigation.
 
 ##### Coming Soon🔗
---
 --
 
 Privilege Escalation ⬆️
@@ -70,7 +66,6 @@ Investigation of elevated privilege abuse.
 
 ##### Coming Soon🔗
 --
---
 
 Exfiltration 📤
 
@@ -78,7 +73,6 @@ SOC-07 Data Exfiltration
 Investigation of unauthorized outbound data transfers.
 
 ##### Coming Soon🔗
---
 --
 
 Impact 💥
@@ -88,14 +82,12 @@ Investigation of ransomware execution and response.
 
 ##### Coming Soon🔗
 --
---
 
 Threat Hunting 🎯
 SOC-09 Threat Hunting
 Proactive threat hunting exercises.
 
 ##### Coming Soon🔗
---
 --
 
 Incident Response 🛡️
