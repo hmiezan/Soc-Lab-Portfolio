@@ -1,14 +1,7 @@
 # SOC Investigation Portfolio 🔍
 Welcome to my SOC Investigation Portfolio.
 
-This repository documents hands-on Security Operations Center (SOC) investigations conducted in a home lab environment using:
-
-Security Onion
-Elastic SIEM
-Windows 11
-Kali Linux
-Active Directory
-MITRE ATT&CK Framework
+This repository documents hands-on Security Operations Center (SOC) investigations conducted in a home lab environment.
 The goal of this portfolio is to demonstrate detection, investigation, incident response, and threat hunting skills through realistic attack scenarios.
 
 ---
