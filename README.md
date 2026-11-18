@@ -11,6 +11,7 @@ Active Directory
 MITRE ATT&CK Framework
 The goal of this portfolio is to demonstrate detection, investigation, incident response, and threat hunting skills through realistic attack scenarios.
 
+---
 ### Lab Environment
 - Security Onion
 - Elastic SIEM
@@ -24,7 +25,8 @@ The goal of this portfolio is to demonstrate detection, investigation, incident 
 
 
 
-Investigations
+### Investigations
+
 Initial Access
 SOC-01 Password Spray
 Investigation of password spraying activity resulting in successful authentication.
@@ -84,24 +86,27 @@ Complete attacker lifecycle investigation.
 
 🔗 Coming Soon
 
-Skills Demonstrated
-Security Monitoring
-Incident Response
-Threat Hunting
-Security Onion
-Elastic SIEM
-Windows Event Analysis
-PowerShell Investigation
-MITRE ATT&CK Mapping
-IOC Development
-Timeline Analysis
-ServiceNow-style Ticketing
-Incident Documentation
-Certifications & Training
+### Skills Demonstrated
+- Security Monitoring
+- Incident Response
+- Threat Hunting
+- Security Onion
+- Elastic SIEM
+- Windows Event Analysis
+- PowerShell Investigation
+- MITRE ATT&CK Mapping
+- IOC Development
+- Timeline Analysis
+- ServiceNow-style Ticketing
+- Incident Documentation
+
+### Certifications & Training
 CompTIA Security+
-SC-200 (In Progress)
+Comptia Network +
+ISC2
 SOC Home Lab Development
-Author
+
+### Author
 Hervé Miezan
 
 Aspiring Incident Responder building hands-on experience through Security Operations Center investigations and threat hunting exercises.
