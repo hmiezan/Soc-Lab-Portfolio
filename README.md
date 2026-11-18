@@ -21,14 +21,16 @@ The goal of this portfolio is to demonstrate detection, investigation, incident 
 
 ### Investigations
 
-Initial Access
+Initial Access 🚨
+
 SOC-01 Password Spray
 Investigation of password spraying activity resulting in successful authentication.
 
 ##### View Investigation🔗
 --
 --
-Discovery
+Discovery 🕵️
+
 SOC-02 SMB Discovery
 Investigation of SMB share access following successful authentication.
 
@@ -43,15 +45,17 @@ Investigation of PowerShell-based host discovery activity.
 --
 --
 
-Credential Access
-SOC-04 Credential Access
+Credential Access 🔑
+
+SOC-04 Credential Access 
 Credential theft investigation.
 
 ##### Coming Soon🔗
 --
 --
 
-Lateral Movement
+Lateral Movement ↔️
+
 SOC-05 Lateral Movement
 Remote access and movement investigation.
 
@@ -59,7 +63,8 @@ Remote access and movement investigation.
 --
 --
 
-Privilege Escalation
+Privilege Escalation ⬆️
+
 SOC-06 Privilege Escalation
 Investigation of elevated privilege abuse.
 
@@ -67,7 +72,8 @@ Investigation of elevated privilege abuse.
 --
 --
 
-Exfiltration
+Exfiltration 📤
+
 SOC-07 Data Exfiltration
 Investigation of unauthorized outbound data transfers.
 
@@ -75,7 +81,8 @@ Investigation of unauthorized outbound data transfers.
 --
 --
 
-Impact
+Impact 💥
+
 SOC-08 Ransomware
 Investigation of ransomware execution and response.
 
@@ -83,7 +90,7 @@ Investigation of ransomware execution and response.
 --
 --
 
-Threat Hunting
+Threat Hunting 🎯
 SOC-09 Threat Hunting
 Proactive threat hunting exercises.
 
@@ -91,7 +98,8 @@ Proactive threat hunting exercises.
 --
 --
 
-Incident Response
+Incident Response 🛡️
+
 SOC-10 Full Incident Response
 Complete attacker lifecycle investigation.
 
