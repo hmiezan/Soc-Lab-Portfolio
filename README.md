@@ -84,6 +84,7 @@ Investigation of ransomware execution and response.
 --
 
 Threat Hunting 🎯
+
 SOC-09 Threat Hunting
 Proactive threat hunting exercises.
 
