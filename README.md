@@ -11,14 +11,15 @@ Active Directory
 MITRE ATT&CK Framework
 The goal of this portfolio is to demonstrate detection, investigation, incident response, and threat hunting skills through realistic attack scenarios.
 
-Lab Environment
-Security Onion
-Elastic SIEM
-Windows 11
-Kali Linux
-Active Directory
-MITRE ATT&CK
-Attack Lifecycle
+### Lab Environment
+- Security Onion
+- Elastic SIEM
+- Windows 11
+- Kali Linux
+- Active Directory
+- MITRE ATT&CK
+
+### Attack Lifecycle
 Initial Access
     ↓
 SOC-01 Password Spray
