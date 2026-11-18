@@ -99,7 +99,6 @@ Complete attacker lifecycle investigation.
 ##### Coming Soon🔗
 --
 
-
 ### Skills Demonstrated
 - Security Monitoring
 - Incident Response
@@ -113,12 +112,6 @@ Complete attacker lifecycle investigation.
 - Timeline Analysis
 - ServiceNow-style Ticketing
 - Incident Documentation
-
-### Certifications & Training
-CompTIA Security+
-Comptia Network +
-ISC2
-SOC Home Lab Development
 
 ### Author
 Hervé Miezan
