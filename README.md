@@ -45,7 +45,7 @@ Investigation of PowerShell-based host discovery activity.
 
 Credential Access 🔑
 
-SOC-04 Credential Access 
+SOC-04 Remote Credential Access Reconnaissance 
 Credential theft investigation.
 
 ##### Coming Soon🔗
