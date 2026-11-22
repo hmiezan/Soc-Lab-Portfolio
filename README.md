@@ -56,8 +56,8 @@ Lateral Movement ↔️
 SOC-05 Lateral Movement
 Remote access and movement investigation.
 
-##### Coming Soon🔗
---
+##### <a href="https://github.com/hmiezan/SOC-05-Lateral-Movement-via-WinRM">View Investigation🔗</a>
+--  
 
 Privilege Escalation ⬆️
 
