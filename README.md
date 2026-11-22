@@ -48,7 +48,7 @@ Credential Access 🔑
 SOC-04 Remote Credential Access Reconnaissance 
 Credential theft investigation.
 
-##### Coming Soon🔗
+##### <a href="https://github.com/hmiezan/SOC-4-Credential-Access-Recon">View Investigation🔗</a>
 --
 
 Lateral Movement ↔️
